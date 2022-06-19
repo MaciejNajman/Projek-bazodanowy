@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/sklep/app/controllers/RoleCtrl.class.php</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/forms/przyjacForm.class.php</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/controllers/LoginCtrl.class.php</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/views/templates/main.tpl</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/views/OrderConfirmView.tpl</file>
+            <file>file:/D:/xampp/htdocs/sklep/routing.php</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/controllers/przyjacCtrl.class.php</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/views/przyjacView.tpl</file>
+            <file>file:/D:/xampp/htdocs/sklep/app/controllers/DataCtrl.class.php</file>
+        </group>
+    </open-files>
+</project-private>
